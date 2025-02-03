@@ -1,0 +1,38 @@
+:root {
+  font-size: 62.5%;
+  font-family: var(--font-family);
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  font-size: 1.5em;
+  text-decoration: none;
+  font-family: var(--font-family);
+  color: var(--secondary);
+}
+
+p{
+  font-size: 1.5em;
+  display: inline-block;
+}
+
+i{
+  padding: 2rem 2rem 2rem 0;
+}
+
+h2{
+  font-size: 2.5rem;
+  padding: 1rem;
+}
+
+h3{
+  font-size: 2.5rem;
+}
+
+li {
+  font-size: 1.5em;
+  padding: 1rem 2rem 1rem 0;
+}
